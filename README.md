@@ -51,10 +51,10 @@ This will launch the application locally. Open the provided URL in your web brow
 ## Screen Capture
 The following is a screen capture from the Diabetes Prediction App:
 - `SS1`
-<img src="screenshot/SS-Prediction1.png" alt="SS1" width="700"> 
+<img src="screenshot/SS-Prediction1.png" alt="SS1" width="800"> 
 
 - `SS2`
-<img src="screenshot/SS-Prediction2.png" alt="SS1" width="700">
+<img src="screenshot/SS-Prediction2.png" alt="SS1" width="800">
 
 ## Author
 [@Ika Nurfitriani](https://github.com/ikanurfitriani)
