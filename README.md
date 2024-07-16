@@ -5,7 +5,7 @@ This repository contains a Streamlit application for predicting diabetes based o
 - `app.py`: The main Streamlit application script.
 - `diabetes_model.pkl`: The trained machine learning model used for prediction.
 - `scaler.pkl`: The scaler used to normalize the input features.
-- `Diabetes_Prediction.ipynb`: A Jupyter Notebook used for model training and evaluation.
+- `Diabetes_Prediction-Ika_Nurfitriani.ipynb`: A Jupyter Notebook used for model training and evaluation.
 
 ## Installation
 To run this application, you'll need to have Python installed along with the necessary libraries. Ensure you have the following libraries installed:
@@ -25,7 +25,7 @@ Ensure that you have the following files in your working directory:
 - `app.py`
 - `diabetes_model.pkl`
 - `scaler.pkl`
-- `Diabetes_Prediction.ipynb`
+- `Diabetes_Prediction-Ika_Nurfitriani.ipynb`
 
 ## Running the Application
 To start the Streamlit application, use the following command:
@@ -51,10 +51,10 @@ This will launch the application locally. Open the provided URL in your web brow
 ## Screen Capture
 The following is a screen capture from the Diabetes Prediction App:
 - `SS1`
-<img src="screenshot/SS-Prediction1.png" alt="SS1" width="800"> 
+<img src="screenshots/SS-Prediction1.png" alt="SS1" width="800"> 
 
 - `SS2`
-<img src="screenshot/SS-Prediction2.png" alt="SS1" width="800">
+<img src="screenshots/SS-Prediction2.png" alt="SS1" width="800">
 
 ## Author
 [@Ika Nurfitriani](https://github.com/ikanurfitriani)
