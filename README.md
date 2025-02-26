@@ -12,35 +12,6 @@ https://diabetes-prediction-by-ika.streamlit.app/
 - `Diabetes_Prediction-Ika_Nurfitriani.ipynb`: A Jupyter Notebook used for model training and evaluation.
 - `requirements.txt`: To specify the Python packages and their versions that are required to run diabetes prediction application.
 
-## Installation
-To run this application, you'll need to have Python installed along with the necessary libraries. Ensure you have the following libraries installed:
-
-- streamlit
-- pandas
-- numpy
-- scikit-learn
-- pickle
-- others
-
-You can install these libraries using the following command:
-```
-pip install -r requirements.txt
-```
-
-Ensure that you have the following files in your working directory:
-- `app.py`
-- `diabetes_model.pkl`
-- `scaler.pkl`
-- `Diabetes_Prediction-Ika_Nurfitriani.ipynb`
-- `requirements.txt`
-
-## Running the Application
-To start the Streamlit application, use the following command:
-```
-streamlit run app.py
-```
-This will launch the application locally. Open the provided URL in your web browser to interact with the diabetes prediction model.
-
 ## Usage
 1. User Input: Enter the required parameters for the prediction.
 - Pregnancies
@@ -54,6 +25,27 @@ This will launch the application locally. Open the provided URL in your web brow
 2. Prediction: Click the `Predict` button to get the prediction.
 - The application will display whether the person is diabetic or non-diabetic.
 - If available, the prediction probabilities will also be displayed.
+
+## Project Setup / Installation Instructions
+1. Clone the repository from GitHub:  
+   ```
+   git clone https://github.com/ikanurfitriani/Diabetes-Prediction.git
+   ```
+
+2. Navigate to the project directory:  
+   ```
+   cd Diabetes-Prediction
+   ```
+
+3. Install the required dependencies:  
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. Run the Streamlit application:  
+   ```
+   streamlit run app.py
+   ```
 
 ## Screen Capture
 The following is a screen capture from the Diabetes Prediction App:
